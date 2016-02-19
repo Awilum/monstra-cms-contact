@@ -13,5 +13,6 @@
             'A letter has been sent!' => 'A letter has been sent!',
             'A Letter was not sent!' => 'A Letter was not sent!',
             'Wrong captcha!' => 'Wrong captcha!',
+            'Enter the code to prove you are human' => 'Enter the code to prove you are human',
         ),
     );
