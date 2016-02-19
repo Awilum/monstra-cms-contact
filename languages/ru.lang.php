@@ -13,5 +13,6 @@
             'A letter has been sent!' => 'Письмо было отправлено!',
             'A Letter was not sent!' => 'Письмо не было отправлено!',
             'Wrong captcha!' => 'Неправильная капча!',
+            'Enter the code to prove you are human' => 'Введите код, чтобы доказать, что ты человек',
         ),
     );

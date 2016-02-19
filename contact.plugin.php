@@ -22,14 +22,14 @@
     /**
      * Shorcode: {contact recipient="admin@site.org"}
      */
-    Shortcode::add('contact', 'Contact::_shorcode');
+    Shortcode::add('contact', 'Contact::_shortcode');
 
     /**
      * Usage: <?php Contact::display('admin@site.org'); ?>
      */
     class Contact
     {
-        public static function _shorcode($attributes)
+        public static function _shortcode($attributes)
         {
             return Contact::form($attributes['recipient']);
         }
